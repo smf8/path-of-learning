@@ -1,4 +1,4 @@
-Resources used by me for introduction to docker
+Resources I used for introduction to docker
 
 - https://docker-curriculum.com/ simple introduction to docker with examples
 - https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
