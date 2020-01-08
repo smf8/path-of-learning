@@ -1,6 +1,6 @@
 Recourses I used for starting go
 
-As I began to learning go right after finishing My "Fundamentals of Programming in C" course in AUT. It might be a good recommendation to be familiar with C when starting Golang.
+As I began learning go right after finishing My "Fundamentals of Programming in C" course in AUT. It might be a good perk to be familiar with C when starting Golang.
 
 However, I used websites listed below in my path of working with go:
 
